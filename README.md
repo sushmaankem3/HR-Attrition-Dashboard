@@ -57,8 +57,7 @@ This dashboard helps HR teams:
 * Improve retention strategies
 * Make data-driven workforce decisions
 
----
+
 
 ## Author
-
 Sushma Ankem
