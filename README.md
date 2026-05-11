@@ -1,7 +1,7 @@
 # HR Employee Attrition Dashboard (Power BI)
 
 ## Dashboard Preview
-<img src="HR%20Dashboard.png" width="900"/>
+
 
 
 ## Overview
